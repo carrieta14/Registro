@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/carrieta14/Registro.git/static/css/main.fd9b437b.css",
+    "main.js": "/carrieta14/Registro.git/static/js/main.e6401b48.js",
+    "index.html": "/carrieta14/Registro.git/index.html",
+    "main.fd9b437b.css.map": "/carrieta14/Registro.git/static/css/main.fd9b437b.css.map",
+    "main.e6401b48.js.map": "/carrieta14/Registro.git/static/js/main.e6401b48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd9b437b.css",
+    "static/js/main.e6401b48.js"
+  ]
+}
