@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/carrieta14/Registro.git/static/css/main.fd9b437b.css",
-    "main.js": "/carrieta14/Registro.git/static/js/main.e6401b48.js",
-    "index.html": "/carrieta14/Registro.git/index.html",
-    "main.fd9b437b.css.map": "/carrieta14/Registro.git/static/css/main.fd9b437b.css.map",
-    "main.e6401b48.js.map": "/carrieta14/Registro.git/static/js/main.e6401b48.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.fd9b437b.css",
-    "static/js/main.e6401b48.js"
-  ]
+  "main.css": "/Registro/static/css/main.91384a0b.chunk.css",
+  "main.js": "/Registro/static/js/main.dee3d273.chunk.js",
+  "main.js.map": "/Registro/static/js/main.dee3d273.chunk.js.map",
+  "static/js/1.eb1a0f2b.chunk.js": "/Registro/static/js/1.eb1a0f2b.chunk.js",
+  "static/js/1.eb1a0f2b.chunk.js.map": "/Registro/static/js/1.eb1a0f2b.chunk.js.map",
+  "runtime~main.js": "/Registro/static/js/runtime~main.e43c08e2.js",
+  "runtime~main.js.map": "/Registro/static/js/runtime~main.e43c08e2.js.map",
+  "static/css/main.91384a0b.chunk.css.map": "/Registro/static/css/main.91384a0b.chunk.css.map",
+  "index.html": "/Registro/index.html",
+  "precache-manifest.7d03319c88379d067f2eb9b9c7aef8e7.js": "/Registro/precache-manifest.7d03319c88379d067f2eb9b9c7aef8e7.js",
+  "service-worker.js": "/Registro/service-worker.js"
 }
